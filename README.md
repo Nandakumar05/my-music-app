@@ -89,5 +89,4 @@ music-player-ui/
 ```bash
 mvn spring-boot:run
 
-backend rub at
 http://localhost:9090
